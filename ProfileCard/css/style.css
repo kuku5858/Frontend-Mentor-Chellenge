@@ -49,8 +49,8 @@ body {
 
 }
 
-p {color: #686d76;}
-.name {margin-top: 5px;}
+.london {color: #686d76; margin: 5px auto 25px auto;}
+.name {margin: 1px auto 15px auto;}
 
 .age {
   color: #aaaaaa;
