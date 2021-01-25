@@ -15,11 +15,13 @@ body {
 }
 
 .top {
-  transform: translate(-5%,-37%);
+  height: 700px;
+  transform: translate(-10%,-37%);
 }
 
 .bottom {
-  transform: translate(90%,-25%);
+  height: 700px;
+  transform: translate(0%,70%);
 }
 
 .main-container {
@@ -30,8 +32,8 @@ body {
   margin: 100px auto;
   text-align: center;
   position: absolute;
-  left: 580px;
-  top: 200px;
+  left: 480px;
+  top: 150px;
 }
 
 .card {
@@ -100,5 +102,5 @@ body {
   top: 16px;
 }
 
-.attribution {font-size: 11px; text-align: center;}
+.attribution {font-size: 11px; text-align: center; position: absolute; left: 510px; top: 690px;}
 .attribution a {color: hsl(228, 45%, 44%); text-decoration: none;}
